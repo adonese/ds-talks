@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Overview}{2}{0}{1}
+\beamer@sectionintoc {2}{Practical Advises}{25}{0}{2}
+\beamer@sectionintoc {3}{What's next}{35}{0}{3}
+\beamer@sectionintoc {4}{May all your models somehow work, and your dependencies are all pip install }{44}{0}{4}
